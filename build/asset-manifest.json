@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactexercisetwo/static/css/main.511312b3.css",
+    "main.js": "/reactexercisetwo/static/js/main.acccf2a3.js",
+    "static/js/453.efdef6d0.chunk.js": "/reactexercisetwo/static/js/453.efdef6d0.chunk.js",
+    "index.html": "/reactexercisetwo/index.html",
+    "main.511312b3.css.map": "/reactexercisetwo/static/css/main.511312b3.css.map",
+    "main.acccf2a3.js.map": "/reactexercisetwo/static/js/main.acccf2a3.js.map",
+    "453.efdef6d0.chunk.js.map": "/reactexercisetwo/static/js/453.efdef6d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.511312b3.css",
+    "static/js/main.acccf2a3.js"
+  ]
+}
